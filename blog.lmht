@@ -1,0 +1,23 @@
+<lmht>
+    <cabeça>
+        <meta/><meta nome="viewport" conteúdo="width=device-width, initial-scale=1.0"/>
+        <título>Blog Simples</título>
+    </cabeça>
+    <corpo>
+        <cabeçalho>
+            <divisão classe="container">
+                    <título1><ligação destino="#">Delégua Blog</ligação>
+                </título1>
+                <navegação>
+                    <lista-simples>
+                        
+                    </lista-simples>
+                </navegação>
+            </divisão>
+        </cabeçalho>
+        <divisão classe="container main-content"></divisão>
+        <rodapé>
+            <parágrafo>Delégua Blog &copy; 2024</parágrafo>
+        </rodapé>
+    </corpo>
+</lmht>

@@ -1,0 +1,13 @@
+{
+  "name": "delegua-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/samuelrvg/delegua-blog",
+  "author": "Samuel Vaz <samuel.rvg@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "@designliquido/lmht-js": "^0.4.9"
+  }
+}
